@@ -1,0 +1,14 @@
+Started from: (0,0), facing: E
+Step 1 => B FAILED (an obstacle is hit). Back-off attempt (BS) will be performed. Battery: 997
+  BS stage 1, step 0 => TR done. Position: (0, 0), Battery: 996, Facing: S
+  BS stage 1, step 1 => A FAILED (an obstacle is hit). Battery: 994
+  BS stage 2, step 0 => TR done. Position: (0, 0), Battery: 993, Facing: W
+  BS stage 2, step 1 => A FAILED (an obstacle is hit). Battery: 991
+  BS stage 3, step 0 => TR done. Position: (0, 0), Battery: 990, Facing: N
+  BS stage 3, step 1 => A FAILED (an obstacle is hit). Battery: 988
+  BS stage 4, step 0 => TR done. Position: (0, 0), Battery: 987, Facing: E
+  BS stage 4, step 1 => B FAILED (an obstacle is hit). Battery: 984
+  BS stage 5, step 0 => TL done. Position: (0, 0), Battery: 983, Facing: N
+  BS stage 5, step 1 => TL done. Position: (0, 0), Battery: 982, Facing: W
+  BS stage 5, step 2 => A FAILED (an obstacle is hit). Battery: 980
+Robot is completely stuck. Program is stopped.

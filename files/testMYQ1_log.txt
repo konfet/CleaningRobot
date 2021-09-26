@@ -1,0 +1,12 @@
+Started from: (3,0), facing: N
+Step 1 => TL done. Position: (3, 0), Battery: 79, Facing: W
+Step 2 => A done. Position: (2, 0), Battery: 77, Facing: W
+Step 3 => C done. Position: (2, 0), Battery: 72, Facing: W
+Step 4 => A done. Position: (1, 0), Battery: 70, Facing: W
+Step 5 => C done. Position: (1, 0), Battery: 65, Facing: W
+Step 6 => TR done. Position: (1, 0), Battery: 64, Facing: N
+Step 7 => A FAILED (an obstacle is hit). Back-off attempt (BS) will be performed. Battery: 62
+  BS stage 1, step 0 => TR done. Position: (1, 0), Battery: 61, Facing: E
+  BS stage 1, step 1 => A done. Position: (2, 0), Battery: 59, Facing: E
+  BS stage 1, step 2 => TL done. Position: (2, 0), Battery: 58, Facing: N
+Step 8 => C done. Position: (2, 0), Battery: 53, Facing: N

@@ -1,0 +1,14 @@
+#!/usr/bin/env php
+<?php
+
+require_once __DIR__ . '/vendor/autoload.php';
+
+use app\Main;
+use Symfony\Component\Console\Application;
+
+$application = new Application('Cleaner', '1.0.0');
+
+$application->add(new Main());
+$application->run();
+
+return $application;
